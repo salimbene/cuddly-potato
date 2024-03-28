@@ -51,9 +51,7 @@ class APIClient {
   async fetchMatrix() {
     try {
       // if Api is available then use below code
-      // const { data } = await axios.get(
-      //   `${this.baseUri}/map/${this.candidateId}/goal`
-      // );
+      // const { data } = await axios.get(`${this.baseUri}/map/${this.candidateId}/goal`);
       // return data.goal;
 
       const { data } = require("../utils/map.json");
