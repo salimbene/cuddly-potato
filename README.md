@@ -17,7 +17,7 @@ This Node.js application is designed to interact with the Megaverse API and perf
 1. Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/your-username/megaverse-app.git
+git clone git@github.com:salimbene/cuddly-potato.git
 cd megaverse-app
 ```
 
