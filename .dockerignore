@@ -1,0 +1,23 @@
+# folders
+**/target
+node_modules
+npm-debug.log
+.boost
+.DS_Store
+bin
+ppk
+keys
+files
+ssh
+
+# files
+/config/local.json
+Dockerfile
+Dockerfile.*
+package-lock.json
+.dockerignore
+.git
+.gitignore
+*.log
+.env
+.env.*

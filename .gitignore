@@ -1,0 +1,16 @@
+# folders
+node_modules
+.boost
+.DS_Store
+bin
+ppk
+keys
+files
+ssh
+
+# files
+/config/local.json
+package-lock.json
+*.log
+.env
+.env.*

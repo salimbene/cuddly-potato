@@ -1,0 +1,32 @@
+{
+  "name": "crossmint",
+  "version": "1.0.0",
+  "description": "coding challenge for crossmint",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js",
+    "test": "jest --watchAll --maxWorkers=1"
+  },
+  "author": "Matias Salimbene",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "config": "^3.3.11",
+    "winston": "^3.13.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [
+    "crossmint"
+  ],
+  "type": "commonjs"
+}

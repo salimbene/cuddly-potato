@@ -95,5 +95,5 @@ This command builds the Docker image and tags it with the name megaverse-app.
 After the image is built, you can run the container with the following command:
 
 ```bash
-docker run -p 3000:3000 megaverse-app
+docker run megaverse-app
 ```
